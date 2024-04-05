@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emma!
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning css animation, bootstrap, and react.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning css layouts and node.js.
 - 📫 Reach me via email: emmabossuytclark@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love soccer! Go City!
